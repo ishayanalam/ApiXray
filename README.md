@@ -203,13 +203,13 @@ The report can be shown on a web dashboard and downloaded as JSON/Markdown.
 
 Even though APIs are “application layer”, they are a core part of modern networked systems.
 
-- **Cryptography (Lecture 4)**
+- **Cryptography**
   - Checking HTTP vs HTTPS relates directly to encryption and secure communication.
 
-- **Firewalls & Access Control (Lecture 5)**
+- **Firewalls & Access Control**
   - Checking whether sensitive endpoints are open without auth is like checking firewall rules at the API level.
 
-- **IDS/IPS (Lecture 6)**
+- **IDS/IPS**
   - Each security check is similar to an IDS rule:  
     “If condition X is true, flag as potential vulnerability.”
 
