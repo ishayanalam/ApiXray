@@ -1,10 +1,6 @@
 > CSE 4419 Network Security Course Project  
 > Working title: **Automated API Reconnaissance and Vulnerability Pipeline**
 
-This document explains the project in simple terms, breaking down each part of the name and describing the full pipeline step by step. We will update it later with more technical details, diagrams, and implementation notes.
-
----
-
 ## 1. What Is an API?
 
 **API** stands for **Application Programming Interface**.
